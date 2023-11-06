@@ -1,7 +1,7 @@
 # cosine_metric_learning
 
 # Qibing
-This code is written in tensorflow version 1. I want to create an anaconda environment with Python 3.6.5 and tensorflow 1.14. But I cannot install Opencv in this environment.
+This code is written in tensorflow version 1. I want to create an anaconda environment with Python 3.6.5 and tensorflow 1.14. But I cannot install Opencv in this environment. It is possible this is because ffmepg does not work in my server 2.
 I found My old successful running in my laptop ubuntu. which use python 3.88 and tensorflow 2.5.0.  
 .
 
